@@ -1,5 +1,4 @@
-[![masterhead](![image](https://github.com/naptawla55/naptawla55/assets/143726375/ee629ad3-81cc-4c21-b020-89f347663a3c)
-)]((https://github.com/naptawla55))
+
 
 <h1 align="center">Hi 👋, I'm Youssef Irmani</h1>
 <h3 align="center">A passionate Computer Science Student From Tunisia</h3>
