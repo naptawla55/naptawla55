@@ -1,4 +1,5 @@
-[![masterhead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlyZGI3MG5kZzd4M200ZjU3ZjN0cHhiaTlycXgwOGI2MWpxZjEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sE1fbQPozKg3q5I2W2/giphy.gif)]((https://github.com/naptawla55))
+[![masterhead](![image](https://github.com/naptawla55/naptawla55/assets/143726375/ee629ad3-81cc-4c21-b020-89f347663a3c)
+)]((https://github.com/naptawla55))
 
 <h1 align="center">Hi 👋, I'm Youssef Irmani</h1>
 <h3 align="center">A passionate Computer Science Student From Tunisia</h3>
